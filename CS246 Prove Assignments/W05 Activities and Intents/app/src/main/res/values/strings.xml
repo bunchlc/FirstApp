@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">W05Assignment</string>
+    <string name="textbar">TextBar</string>
+    <string name="a_simple_button">A Simple Button</string>
+</resources>
