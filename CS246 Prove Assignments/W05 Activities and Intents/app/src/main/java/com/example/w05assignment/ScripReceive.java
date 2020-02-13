@@ -25,6 +25,6 @@ public class ScripReceive extends AppCompatActivity {
     }
 
     public void showToast(View view) {
-        Toast.makeText(ScripReceive.this, "Scripture Saved", Toast.LENGTH_SHORT);
+        Toast.makeText(ScripReceive.this, "Scripture Saved", Toast.LENGTH_SHORT).show();
     }
 }
